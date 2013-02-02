@@ -1,0 +1,4 @@
+Minecraft ist ein Open-World-Spiel, das ursprünglich vom schwedischen Programmierer Markus Persson alias Notch entwickelt wurde. Es wird nun von seiner Firma Mojang AB weiterentwickelt. In dem Computerspiel wird der Spieler in eine sehr große, zufallsgenerierte 3D-Landschaft versetzt. Diese Welt besteht fast vollständig aus Würfeln, die sich weiterverarbeiten lassen.
+*Test1*
+**Test2**
+*	test3
